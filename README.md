@@ -1,7 +1,7 @@
 **Harvest Sun : Seja o melhor Fazendeiro**
 
 
-[Clique aqui para jogar!] src="/harvest-moon-phaser3-game/main.02acc2be.js"
+[Clique aqui para jogar!] (https:///harvest-moon-phaser3-game/main.02acc2be.js/)
 
 Você é Arion. Você herdou um grande pedaço de terra de seu falecido avô, que você converteu em uma fazenda para cultivar colheitas para a cidade próxima e fornecer um local seguro para animais de fazenda resgatados viverem.
 
